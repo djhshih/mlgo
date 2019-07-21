@@ -1,0 +1,5 @@
+Remove re-definition of Matrix and Vector.
+Implement Subclusterer interface for clustering algorithms.
+Make FindClusters internal to clustering algorithms with random initializations?
+Implement Subset(.) for mixmodel and hclust.
+Implement a generic algorithm for returning the index of sorted elements
